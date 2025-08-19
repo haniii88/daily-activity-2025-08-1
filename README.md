@@ -1,4 +1,4 @@
 import dateti
 
-now = datetime.datetime.now()
+now = datetime.datetime.nowme()
 print("Current date and time:", now)
